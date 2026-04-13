@@ -1,0 +1,11 @@
+{
+    "domain": "radix",
+    "subdomain": "radix",
+    "owner": {
+        "username": "yigitdoguu",
+        "email": "yigitdoguu@gmail.com"
+    },
+    "record": {
+        "CNAME": "yigitdoguu.github.io"
+    }
+}
